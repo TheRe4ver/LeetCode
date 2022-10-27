@@ -96,5 +96,8 @@
     <ClCompile Include="217. Contains Duplicate.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="2. Add Two Numbers.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
