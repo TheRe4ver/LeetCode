@@ -3,7 +3,7 @@ class ParkingSystem
 private:
     int park[3] = {};
 public:
-
+      
     ParkingSystem(int big, int medium, int small)
     {
         park[0] = big;

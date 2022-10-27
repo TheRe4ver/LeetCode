@@ -93,5 +93,8 @@
     <ClCompile Include="2427. Number of Common Factors.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="217. Contains Duplicate.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

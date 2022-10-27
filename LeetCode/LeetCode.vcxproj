@@ -141,6 +141,7 @@
     <ClCompile Include="1688. Count of Matches in Tournament.cpp" />
     <ClCompile Include="20. Valid Parentheses.cpp" />
     <ClCompile Include="2011. Final Value of Variable After Performing Operations.cpp" />
+    <ClCompile Include="217. Contains Duplicate.cpp" />
     <ClCompile Include="2235. Add Two Integers.cpp" />
     <ClCompile Include="231. Power of Two.cpp" />
     <ClCompile Include="2413. Smallest Even Multiple.cpp" />
