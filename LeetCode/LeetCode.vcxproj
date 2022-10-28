@@ -29,6 +29,7 @@
     <ClCompile Include="1480. Running Sum of 1d Array.cpp" />
     <ClCompile Include="1486. XOR Operation in an Array.cpp" />
     <ClCompile Include="1603. Design Parking System.cpp" />
+    <ClCompile Include="1662. Check If Two String Arrays are Equivalent.cpp" />
     <ClCompile Include="1672. Richest Customer Wealth.cpp" />
     <ClCompile Include="1688. Count of Matches in Tournament.cpp" />
     <ClCompile Include="2. Add Two Numbers.cpp" />
