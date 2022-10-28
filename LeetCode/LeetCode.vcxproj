@@ -43,6 +43,7 @@
     <ClCompile Include="342. Power of Four.cpp" />
     <ClCompile Include="4. Median of Two Sorted Arrays.cpp" />
     <ClCompile Include="48. Rotate Image.cpp" />
+    <ClCompile Include="49. Group Anagrams.cpp" />
     <ClCompile Include="58. Length of Last Word.cpp" />
     <ClCompile Include="66. Plus One.cpp" />
     <ClCompile Include="7. Reverse Integer.cpp" />

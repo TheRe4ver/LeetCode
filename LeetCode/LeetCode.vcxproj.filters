@@ -102,5 +102,8 @@
     <ClCompile Include="2427. Number of Common Factors.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="49. Group Anagrams.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
