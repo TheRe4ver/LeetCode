@@ -18,10 +18,16 @@
     <ClCompile Include="1. Two Sum.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="2. Add Two Numbers.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
     <ClCompile Include="3. Longest Substring Without Repeating Characters.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
     <ClCompile Include="4. Median of Two Sorted Arrays.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="7. Reverse Integer.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
     <ClCompile Include="9. Palindrome Number.cpp">
@@ -40,6 +46,9 @@
       <Filter>Исходные файлы</Filter>
     </ClCompile>
     <ClCompile Include="66. Plus One.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="217. Contains Duplicate.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
     <ClCompile Include="231. Power of Two.cpp">
@@ -91,12 +100,6 @@
       <Filter>Исходные файлы</Filter>
     </ClCompile>
     <ClCompile Include="2427. Number of Common Factors.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="217. Contains Duplicate.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="2. Add Two Numbers.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>

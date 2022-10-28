@@ -18,6 +18,37 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1. Two Sum.cpp" />
+    <ClCompile Include="1108. Defanging an IP Address.cpp" />
+    <ClCompile Include="1281. Subtract the Product and Sum of Digits of an Integer.cpp" />
+    <ClCompile Include="1290. Convert Binary Number in a Linked List to Integer.cpp" />
+    <ClCompile Include="13. Roman to Integer.cpp" />
+    <ClCompile Include="1342. Number of Steps to Reduce a Number to Zero.cpp" />
+    <ClCompile Include="1470. Shuffle the Array.cpp" />
+    <ClCompile Include="1480. Running Sum of 1d Array.cpp" />
+    <ClCompile Include="1486. XOR Operation in an Array.cpp" />
+    <ClCompile Include="1603. Design Parking System.cpp" />
+    <ClCompile Include="1672. Richest Customer Wealth.cpp" />
+    <ClCompile Include="1688. Count of Matches in Tournament.cpp" />
+    <ClCompile Include="2. Add Two Numbers.cpp" />
+    <ClCompile Include="20. Valid Parentheses.cpp" />
+    <ClCompile Include="2011. Final Value of Variable After Performing Operations.cpp" />
+    <ClCompile Include="217. Contains Duplicate.cpp" />
+    <ClCompile Include="2235. Add Two Integers.cpp" />
+    <ClCompile Include="231. Power of Two.cpp" />
+    <ClCompile Include="2413. Smallest Even Multiple.cpp" />
+    <ClCompile Include="2427. Number of Common Factors.cpp" />
+    <ClCompile Include="3. Longest Substring Without Repeating Characters.cpp" />
+    <ClCompile Include="342. Power of Four.cpp" />
+    <ClCompile Include="4. Median of Two Sorted Arrays.cpp" />
+    <ClCompile Include="48. Rotate Image.cpp" />
+    <ClCompile Include="58. Length of Last Word.cpp" />
+    <ClCompile Include="66. Plus One.cpp" />
+    <ClCompile Include="7. Reverse Integer.cpp" />
+    <ClCompile Include="771. Jewels and Stones.cpp" />
+    <ClCompile Include="9. Palindrome Number.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
@@ -126,36 +157,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="1. Two Sum.cpp" />
-    <ClCompile Include="1108. Defanging an IP Address.cpp" />
-    <ClCompile Include="1281. Subtract the Product and Sum of Digits of an Integer.cpp" />
-    <ClCompile Include="1290. Convert Binary Number in a Linked List to Integer.cpp" />
-    <ClCompile Include="13. Roman to Integer.cpp" />
-    <ClCompile Include="1342. Number of Steps to Reduce a Number to Zero.cpp" />
-    <ClCompile Include="1470. Shuffle the Array.cpp" />
-    <ClCompile Include="1480. Running Sum of 1d Array.cpp" />
-    <ClCompile Include="1486. XOR Operation in an Array.cpp" />
-    <ClCompile Include="1603. Design Parking System.cpp" />
-    <ClCompile Include="1672. Richest Customer Wealth.cpp" />
-    <ClCompile Include="1688. Count of Matches in Tournament.cpp" />
-    <ClCompile Include="2. Add Two Numbers.cpp" />
-    <ClCompile Include="20. Valid Parentheses.cpp" />
-    <ClCompile Include="2011. Final Value of Variable After Performing Operations.cpp" />
-    <ClCompile Include="217. Contains Duplicate.cpp" />
-    <ClCompile Include="2235. Add Two Integers.cpp" />
-    <ClCompile Include="231. Power of Two.cpp" />
-    <ClCompile Include="2413. Smallest Even Multiple.cpp" />
-    <ClCompile Include="2427. Number of Common Factors.cpp" />
-    <ClCompile Include="3. Longest Substring Without Repeating Characters.cpp" />
-    <ClCompile Include="342. Power of Four.cpp" />
-    <ClCompile Include="4. Median of Two Sorted Arrays.cpp" />
-    <ClCompile Include="48. Rotate Image.cpp" />
-    <ClCompile Include="58. Length of Last Word.cpp" />
-    <ClCompile Include="66. Plus One.cpp" />
-    <ClCompile Include="771. Jewels and Stones.cpp" />
-    <ClCompile Include="9. Palindrome Number.cpp" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
