@@ -41,6 +41,7 @@
     <ClCompile Include="2413. Smallest Even Multiple.cpp" />
     <ClCompile Include="242. Valid Anagram.cpp" />
     <ClCompile Include="2427. Number of Common Factors.cpp" />
+    <ClCompile Include="2469. Convert the Temperature.cpp" />
     <ClCompile Include="3. Longest Substring Without Repeating Characters.cpp" />
     <ClCompile Include="342. Power of Four.cpp" />
     <ClCompile Include="4. Median of Two Sorted Arrays.cpp" />
@@ -51,6 +52,7 @@
     <ClCompile Include="7. Reverse Integer.cpp" />
     <ClCompile Include="771. Jewels and Stones.cpp" />
     <ClCompile Include="9. Palindrome Number.cpp" />
+    <ClCompile Include="914. X of a Kind in a Deck of Cards.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
