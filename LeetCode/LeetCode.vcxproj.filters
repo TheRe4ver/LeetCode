@@ -135,5 +135,8 @@
     <ClCompile Include="1394. Find Lucky Integer in an Array.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="1979. Find Greatest Common Divisor of Array.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
