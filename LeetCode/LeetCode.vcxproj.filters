@@ -126,5 +126,8 @@
     <ClCompile Include="2433. Find The Original Array of Prefix Xor.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="2391. Minimum Amount of Time to Collect Garbage.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

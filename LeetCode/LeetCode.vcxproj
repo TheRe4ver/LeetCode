@@ -39,6 +39,7 @@
     <ClCompile Include="217. Contains Duplicate.cpp" />
     <ClCompile Include="2235. Add Two Integers.cpp" />
     <ClCompile Include="231. Power of Two.cpp" />
+    <ClCompile Include="2391. Minimum Amount of Time to Collect Garbage.cpp" />
     <ClCompile Include="2413. Smallest Even Multiple.cpp" />
     <ClCompile Include="242. Valid Anagram.cpp" />
     <ClCompile Include="2427. Number of Common Factors.cpp" />
