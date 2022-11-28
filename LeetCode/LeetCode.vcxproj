@@ -24,6 +24,7 @@
     <ClCompile Include="1281. Subtract the Product and Sum of Digits of an Integer.cpp" />
     <ClCompile Include="1290. Convert Binary Number in a Linked List to Integer.cpp" />
     <ClCompile Include="13. Roman to Integer.cpp" />
+    <ClCompile Include="1302. Deepest Leaves Sum.cpp" />
     <ClCompile Include="1342. Number of Steps to Reduce a Number to Zero.cpp" />
     <ClCompile Include="1470. Shuffle the Array.cpp" />
     <ClCompile Include="1480. Running Sum of 1d Array.cpp" />
