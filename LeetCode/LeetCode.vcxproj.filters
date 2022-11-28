@@ -120,5 +120,8 @@
     <ClCompile Include="1302. Deepest Leaves Sum.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="535. Encode and Decode TinyURL.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
