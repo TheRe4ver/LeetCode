@@ -42,6 +42,7 @@
     <ClCompile Include="2413. Smallest Even Multiple.cpp" />
     <ClCompile Include="242. Valid Anagram.cpp" />
     <ClCompile Include="2427. Number of Common Factors.cpp" />
+    <ClCompile Include="2433. Find The Original Array of Prefix Xor.cpp" />
     <ClCompile Include="2469. Convert the Temperature.cpp" />
     <ClCompile Include="3. Longest Substring Without Repeating Characters.cpp" />
     <ClCompile Include="342. Power of Four.cpp" />
