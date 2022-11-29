@@ -50,6 +50,7 @@
     <ClCompile Include="2469. Convert the Temperature.cpp" />
     <ClCompile Include="3. Longest Substring Without Repeating Characters.cpp" />
     <ClCompile Include="342. Power of Four.cpp" />
+    <ClCompile Include="380. Insert Delete GetRandom O(1).cpp" />
     <ClCompile Include="4. Median of Two Sorted Arrays.cpp" />
     <ClCompile Include="48. Rotate Image.cpp" />
     <ClCompile Include="49. Group Anagrams.cpp" />
