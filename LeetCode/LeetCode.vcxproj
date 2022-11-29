@@ -42,6 +42,7 @@
     <ClCompile Include="2. Add Two Numbers.cpp" />
     <ClCompile Include="20. Valid Parentheses.cpp" />
     <ClCompile Include="2011. Final Value of Variable After Performing Operations.cpp" />
+    <ClCompile Include="206. Reverse Linked List.cpp" />
     <ClCompile Include="2109. Adding Spaces to a String.cpp" />
     <ClCompile Include="217. Contains Duplicate.cpp" />
     <ClCompile Include="2235. Add Two Integers.cpp" />
