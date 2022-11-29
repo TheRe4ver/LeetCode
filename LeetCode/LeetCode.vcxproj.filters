@@ -150,5 +150,8 @@
     <ClCompile Include="344. Reverse String.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="104. Maximum Depth of Binary Tree.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
