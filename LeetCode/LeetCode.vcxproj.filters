@@ -153,5 +153,8 @@
     <ClCompile Include="104. Maximum Depth of Binary Tree.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="111. Minimum Depth of Binary Tree.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

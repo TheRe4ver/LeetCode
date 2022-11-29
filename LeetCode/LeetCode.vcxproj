@@ -22,6 +22,7 @@
     <ClCompile Include="1. Two Sum.cpp" />
     <ClCompile Include="104. Maximum Depth of Binary Tree.cpp" />
     <ClCompile Include="1108. Defanging an IP Address.cpp" />
+    <ClCompile Include="111. Minimum Depth of Binary Tree.cpp" />
     <ClCompile Include="1281. Subtract the Product and Sum of Digits of an Integer.cpp" />
     <ClCompile Include="1290. Convert Binary Number in a Linked List to Integer.cpp" />
     <ClCompile Include="13. Roman to Integer.cpp" />
