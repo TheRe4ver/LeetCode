@@ -141,5 +141,8 @@
     <ClCompile Include="380. Insert Delete GetRandom O(1).cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="1689. Partitioning Into Minimum Number Of Deci-Binary Numbers.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
