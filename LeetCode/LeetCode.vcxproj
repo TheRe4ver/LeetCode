@@ -67,6 +67,7 @@
     <ClCompile Include="771. Jewels and Stones.cpp" />
     <ClCompile Include="9. Palindrome Number.cpp" />
     <ClCompile Include="914. X of a Kind in a Deck of Cards.cpp" />
+    <ClCompile Include="92. Reverse Linked List II.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

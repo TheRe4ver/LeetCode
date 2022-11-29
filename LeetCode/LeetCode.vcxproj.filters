@@ -159,5 +159,8 @@
     <ClCompile Include="206. Reverse Linked List.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="92. Reverse Linked List II.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
