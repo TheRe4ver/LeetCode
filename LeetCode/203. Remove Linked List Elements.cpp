@@ -1,0 +1,35 @@
+#include <iostream>
+
+using namespace std;
+
+struct ListNode 
+{
+    int val;
+    ListNode *next;
+    ListNode() : val(0), next(nullptr) {}
+    ListNode(int x) : val(x), next(nullptr) {}
+    ListNode(int x, ListNode *next) : val(x), next(next) {}
+};
+
+class Solution 
+{
+public:
+    ListNode* removeElements(ListNode* head, int val)
+    {
+        if (head == NULL)
+            return head;
+
+        head->next = removeElements(head->next, val);
+
+        if (head->val == val)
+            return head->next;
+        return head;
+    }
+};
+
+void main()
+{
+    Solution program;
+    ListNode* list = new ListNode();
+    program.removeElements(list, 5);
+}
