@@ -147,5 +147,8 @@
     <ClCompile Include="1974. Minimum Time to Type Word Using Special Typewriter.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="344. Reverse String.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
