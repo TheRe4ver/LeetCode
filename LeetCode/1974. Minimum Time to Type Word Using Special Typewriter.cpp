@@ -8,8 +8,8 @@ class Solution
 public:
     int minTimeToType(string word) 
     {
-        int_fast64_t res = word.size();
-        int_fast64_t point = 'a';
+        int res = word.size();
+        int point = 'a';
         for (auto ch : word) 
         {
             res += min(abs(ch - point), 26 - abs(point - ch));
