@@ -56,6 +56,7 @@
     <ClCompile Include="2433. Find The Original Array of Prefix Xor.cpp" />
     <ClCompile Include="2469. Convert the Temperature.cpp" />
     <ClCompile Include="27. Remove Element.cpp" />
+    <ClCompile Include="283. Move Zeroes.cpp" />
     <ClCompile Include="3. Longest Substring Without Repeating Characters.cpp" />
     <ClCompile Include="342. Power of Four.cpp" />
     <ClCompile Include="344. Reverse String.cpp" />

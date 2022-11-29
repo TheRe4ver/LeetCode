@@ -174,5 +174,8 @@
     <ClCompile Include="27. Remove Element.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="283. Move Zeroes.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
