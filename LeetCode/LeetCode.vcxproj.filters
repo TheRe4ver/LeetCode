@@ -198,5 +198,8 @@
     <ClCompile Include="2351. First Letter to Appear Twice.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="1903. Largest Odd Number in String.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
