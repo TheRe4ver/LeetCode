@@ -10,7 +10,7 @@ public:
     {
         double max = 0; 
         int size = data.size();
-        for (size_t i = 0; i < size; i++)
+        for (int i = 0; i < size; i++)
             if (data[i] == letter)
                 max++;
         return (max / size) * 100;
