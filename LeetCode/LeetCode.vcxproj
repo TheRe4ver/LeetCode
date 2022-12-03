@@ -82,6 +82,7 @@
     <ClCompile Include="66. Plus One.cpp" />
     <ClCompile Include="7. Reverse Integer.cpp" />
     <ClCompile Include="771. Jewels and Stones.cpp" />
+    <ClCompile Include="848. Shifting Letters.cpp" />
     <ClCompile Include="9. Palindrome Number.cpp" />
     <ClCompile Include="914. X of a Kind in a Deck of Cards.cpp" />
     <ClCompile Include="92. Reverse Linked List II.cpp" />
