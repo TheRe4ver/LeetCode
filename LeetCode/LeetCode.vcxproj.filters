@@ -204,5 +204,8 @@
     <ClCompile Include="2278. Percentage of Letter in String.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="1844. Replace All Digits with Characters.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
