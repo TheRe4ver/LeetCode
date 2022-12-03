@@ -67,6 +67,7 @@
     <ClCompile Include="268. Missing Number.cpp" />
     <ClCompile Include="27. Remove Element.cpp" />
     <ClCompile Include="283. Move Zeroes.cpp" />
+    <ClCompile Include="287. Find the Duplicate Number.cpp" />
     <ClCompile Include="3. Longest Substring Without Repeating Characters.cpp" />
     <ClCompile Include="326. Power of Three.cpp" />
     <ClCompile Include="342. Power of Four.cpp" />
