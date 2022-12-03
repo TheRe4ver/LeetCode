@@ -186,5 +186,8 @@
     <ClCompile Include="451. Sort Characters By Frequency.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="387. First Unique Character in a String.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -62,6 +62,7 @@
     <ClCompile Include="342. Power of Four.cpp" />
     <ClCompile Include="344. Reverse String.cpp" />
     <ClCompile Include="380. Insert Delete GetRandom O(1).cpp" />
+    <ClCompile Include="387. First Unique Character in a String.cpp" />
     <ClCompile Include="4. Median of Two Sorted Arrays.cpp" />
     <ClCompile Include="412. Fizz Buzz.cpp" />
     <ClCompile Include="451. Sort Characters By Frequency.cpp" />
