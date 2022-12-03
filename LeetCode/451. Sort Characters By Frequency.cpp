@@ -4,7 +4,8 @@
 #include <vector>
 using namespace std;
 
-class Solution {
+class Solution 
+{
 public:
     string frequencySort(string s) 
     {
