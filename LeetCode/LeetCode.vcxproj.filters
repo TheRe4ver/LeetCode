@@ -207,5 +207,8 @@
     <ClCompile Include="1844. Replace All Digits with Characters.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="2264. Largest 3-Same-Digit Number in String.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
