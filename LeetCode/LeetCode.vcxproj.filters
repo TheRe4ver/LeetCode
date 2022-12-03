@@ -201,5 +201,8 @@
     <ClCompile Include="1903. Largest Odd Number in String.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="2278. Percentage of Letter in String.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

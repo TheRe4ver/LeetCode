@@ -49,6 +49,7 @@
     <ClCompile Include="2109. Adding Spaces to a String.cpp" />
     <ClCompile Include="217. Contains Duplicate.cpp" />
     <ClCompile Include="2235. Add Two Integers.cpp" />
+    <ClCompile Include="2278. Percentage of Letter in String.cpp" />
     <ClCompile Include="231. Power of Two.cpp" />
     <ClCompile Include="2351. First Letter to Appear Twice.cpp" />
     <ClCompile Include="237. Delete Node in a Linked List.cpp" />
