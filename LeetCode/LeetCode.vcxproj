@@ -63,6 +63,7 @@
     <ClCompile Include="344. Reverse String.cpp" />
     <ClCompile Include="380. Insert Delete GetRandom O(1).cpp" />
     <ClCompile Include="4. Median of Two Sorted Arrays.cpp" />
+    <ClCompile Include="412. Fizz Buzz.cpp" />
     <ClCompile Include="48. Rotate Image.cpp" />
     <ClCompile Include="49. Group Anagrams.cpp" />
     <ClCompile Include="535. Encode and Decode TinyURL.cpp" />
