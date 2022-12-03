@@ -58,6 +58,7 @@
     <ClCompile Include="27. Remove Element.cpp" />
     <ClCompile Include="283. Move Zeroes.cpp" />
     <ClCompile Include="3. Longest Substring Without Repeating Characters.cpp" />
+    <ClCompile Include="326. Power of Three.cpp" />
     <ClCompile Include="342. Power of Four.cpp" />
     <ClCompile Include="344. Reverse String.cpp" />
     <ClCompile Include="380. Insert Delete GetRandom O(1).cpp" />
