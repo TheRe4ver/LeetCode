@@ -261,5 +261,8 @@
     <ClCompile Include="350. Intersection of Two Arrays II.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="41. First Missing Positive.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

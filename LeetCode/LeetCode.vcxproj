@@ -83,6 +83,7 @@
     <ClCompile Include="387. First Unique Character in a String.cpp" />
     <ClCompile Include="389. Find the Difference.cpp" />
     <ClCompile Include="4. Median of Two Sorted Arrays.cpp" />
+    <ClCompile Include="41. First Missing Positive.cpp" />
     <ClCompile Include="412. Fizz Buzz.cpp" />
     <ClCompile Include="451. Sort Characters By Frequency.cpp" />
     <ClCompile Include="48. Rotate Image.cpp" />
