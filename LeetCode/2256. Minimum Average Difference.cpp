@@ -3,7 +3,8 @@
 #include <math.h>
 using namespace std;
 
-class Solution {
+class Solution
+{
 public:
     int minimumAverageDifference(vector<int>& nums)
     {

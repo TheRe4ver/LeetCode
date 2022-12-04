@@ -7,7 +7,7 @@ class Solution
 public:
     int titleToNumber(string columnTitle) 
     {
-        infa result = 0;
+        uint_fast64_t result = 0;
         for (auto current_column : columnTitle)
             result = result * 26 + current_column - 'A' + 1;
         return result;
