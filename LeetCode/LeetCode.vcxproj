@@ -90,6 +90,7 @@
     <ClCompile Include="58. Length of Last Word.cpp" />
     <ClCompile Include="645. Set Mismatch.cpp" />
     <ClCompile Include="66. Plus One.cpp" />
+    <ClCompile Include="69. Sqrt(x).cpp" />
     <ClCompile Include="7. Reverse Integer.cpp" />
     <ClCompile Include="771. Jewels and Stones.cpp" />
     <ClCompile Include="848. Shifting Letters.cpp" />
