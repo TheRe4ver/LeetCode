@@ -237,5 +237,8 @@
     <ClCompile Include="168. Excel Sheet Column Title.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="118. Pascal%27s Triangle.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
