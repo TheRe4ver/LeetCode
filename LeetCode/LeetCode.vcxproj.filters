@@ -258,5 +258,8 @@
     <ClCompile Include="55. Jump Game.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="350. Intersection of Two Arrays II.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
