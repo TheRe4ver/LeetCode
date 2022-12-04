@@ -23,5 +23,6 @@ public:
 
 void main()
 {
-
+    Solution program;
+    cout << program.judgeSquareSum(16);
 }
