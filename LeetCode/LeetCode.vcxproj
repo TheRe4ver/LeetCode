@@ -83,6 +83,7 @@
     <ClCompile Include="535. Encode and Decode TinyURL.cpp" />
     <ClCompile Include="559. Maximum Depth of N-ary Tree.cpp" />
     <ClCompile Include="58. Length of Last Word.cpp" />
+    <ClCompile Include="645. Set Mismatch.cpp" />
     <ClCompile Include="66. Plus One.cpp" />
     <ClCompile Include="7. Reverse Integer.cpp" />
     <ClCompile Include="771. Jewels and Stones.cpp" />
