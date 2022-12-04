@@ -42,6 +42,7 @@
     <ClCompile Include="1688. Count of Matches in Tournament.cpp" />
     <ClCompile Include="1689. Partitioning Into Minimum Number Of Deci-Binary Numbers.cpp" />
     <ClCompile Include="169. Majority Element.cpp" />
+    <ClCompile Include="1704. Determine if String Halves Are Alike.cpp" />
     <ClCompile Include="171. Excel Sheet Column Number.cpp" />
     <ClCompile Include="1844. Replace All Digits with Characters.cpp" />
     <ClCompile Include="1903. Largest Odd Number in String.cpp" />
@@ -99,6 +100,7 @@
     <ClCompile Include="7. Reverse Integer.cpp" />
     <ClCompile Include="771. Jewels and Stones.cpp" />
     <ClCompile Include="848. Shifting Letters.cpp" />
+    <ClCompile Include="876. Middle of the Linked List.cpp" />
     <ClCompile Include="9. Palindrome Number.cpp" />
     <ClCompile Include="914. X of a Kind in a Deck of Cards.cpp" />
     <ClCompile Include="92. Reverse Linked List II.cpp" />
