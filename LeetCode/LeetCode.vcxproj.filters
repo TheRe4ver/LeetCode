@@ -243,5 +243,8 @@
     <ClCompile Include="119. Pascal%27s Triangle II.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="2256. Minimum Average Difference.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
