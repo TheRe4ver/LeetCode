@@ -252,5 +252,8 @@
     <ClCompile Include="367. Valid Perfect Square.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="633. Sum of Square Numbers.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
