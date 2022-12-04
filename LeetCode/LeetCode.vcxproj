@@ -36,6 +36,7 @@
     <ClCompile Include="1603. Design Parking System.cpp" />
     <ClCompile Include="1662. Check If Two String Arrays are Equivalent.cpp" />
     <ClCompile Include="1672. Richest Customer Wealth.cpp" />
+    <ClCompile Include="168. Excel Sheet Column Title.cpp" />
     <ClCompile Include="1688. Count of Matches in Tournament.cpp" />
     <ClCompile Include="1689. Partitioning Into Minimum Number Of Deci-Binary Numbers.cpp" />
     <ClCompile Include="169. Majority Element.cpp" />

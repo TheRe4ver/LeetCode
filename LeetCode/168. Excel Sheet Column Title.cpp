@@ -3,23 +3,21 @@
 
 using namespace std;
 
-class Solution 
+class Solution
 {
 public:
-    int addDigits(uint_fast64_t number)
+    string convertToTitle(int columnNumber) 
     {
-        uint_fast64_t temp = 0;
-        while (number > 9)
+        string output;
+        while (columnNumber > 0) 
         {
-            while (number)
-            {
-                temp += (number % 10);
-                number /= 10;
-            }
-            number = temp;
-            temp = 0;
+            columnNumber--;
+            int char_shift = columnNumber % 26;
+            columnNumber /= 26;
+            output += 'A' + char_shift;
         }
-        return number;
+        reverse(output.begin(), output.end());
+        return output;
     }
 };
 
