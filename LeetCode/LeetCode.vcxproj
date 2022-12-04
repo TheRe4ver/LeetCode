@@ -39,6 +39,7 @@
     <ClCompile Include="1688. Count of Matches in Tournament.cpp" />
     <ClCompile Include="1689. Partitioning Into Minimum Number Of Deci-Binary Numbers.cpp" />
     <ClCompile Include="169. Majority Element.cpp" />
+    <ClCompile Include="171. Excel Sheet Column Number.cpp" />
     <ClCompile Include="1844. Replace All Digits with Characters.cpp" />
     <ClCompile Include="1903. Largest Odd Number in String.cpp" />
     <ClCompile Include="1974. Minimum Time to Type Word Using Special Typewriter.cpp" />

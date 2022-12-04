@@ -231,5 +231,8 @@
     <ClCompile Include="645. Set Mismatch.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="171. Excel Sheet Column Number.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

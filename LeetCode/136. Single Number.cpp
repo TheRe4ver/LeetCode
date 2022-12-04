@@ -11,7 +11,7 @@ public:
 	{
 		sort(nums.begin(), nums.end());
 		int size = nums.size();
-
+			
 		for (size_t i = 0; i < size;)
 		{
 			if (nums[i] != nums[i + 1])
@@ -19,8 +19,7 @@ public:
 			else
 				i += 2;
 		}
-		
-		return nums[0];
+		return 1;
 	}
 };
 
