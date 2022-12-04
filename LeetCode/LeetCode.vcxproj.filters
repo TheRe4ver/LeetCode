@@ -249,5 +249,8 @@
     <ClCompile Include="69. Sqrt(x).cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="367. Valid Perfect Square.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
