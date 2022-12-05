@@ -29,5 +29,5 @@ void main()
 {
 	Solution program;
 	vector<int> nums{ 9,6,4,2,3,5,7,0,1 };
-	cout << program.missingNumber() << endl;
+	cout << program.missingNumber(nums) << endl;
 }
