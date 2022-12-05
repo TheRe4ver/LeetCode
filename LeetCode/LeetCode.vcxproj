@@ -96,6 +96,7 @@
     <ClCompile Include="633. Sum of Square Numbers.cpp" />
     <ClCompile Include="645. Set Mismatch.cpp" />
     <ClCompile Include="66. Plus One.cpp" />
+    <ClCompile Include="67. Add Binary.cpp" />
     <ClCompile Include="69. Sqrt(x).cpp" />
     <ClCompile Include="7. Reverse Integer.cpp" />
     <ClCompile Include="771. Jewels and Stones.cpp" />

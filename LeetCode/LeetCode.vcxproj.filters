@@ -270,5 +270,8 @@
     <ClCompile Include="876. Middle of the Linked List.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="67. Add Binary.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
