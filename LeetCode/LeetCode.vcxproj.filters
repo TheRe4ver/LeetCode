@@ -279,5 +279,8 @@
     <ClCompile Include="11. Container With Most Water.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="12. Integer to Roman.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
