@@ -20,6 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1. Two Sum.cpp" />
+    <ClCompile Include="10. Regular Expression Matching.cpp" />
     <ClCompile Include="104. Maximum Depth of Binary Tree.cpp" />
     <ClCompile Include="1108. Defanging an IP Address.cpp" />
     <ClCompile Include="111. Minimum Depth of Binary Tree.cpp" />
