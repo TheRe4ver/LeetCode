@@ -112,6 +112,9 @@
     <ClCompile Include="92. Reverse Linked List II.cpp" />
     <ClCompile Include="991. Broken Calculator.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="443. String Compression.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
