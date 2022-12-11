@@ -100,6 +100,7 @@
     <ClCompile Include="55. Jump Game.cpp" />
     <ClCompile Include="559. Maximum Depth of N-ary Tree.cpp" />
     <ClCompile Include="58. Length of Last Word.cpp" />
+    <ClCompile Include="6. Zigzag Conversion.cpp" />
     <ClCompile Include="633. Sum of Square Numbers.cpp" />
     <ClCompile Include="645. Set Mismatch.cpp" />
     <ClCompile Include="66. Plus One.cpp" />

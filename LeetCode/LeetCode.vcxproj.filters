@@ -297,6 +297,9 @@
     <ClCompile Include="5. Longest Palindromic Substring.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="6. Zigzag Conversion.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="443. String Compression.cpp">
