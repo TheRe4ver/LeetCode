@@ -8,8 +8,8 @@ public:
     int myAtoi(string input)
     {
         int output = 0;
-        stringstream stream(input);
-        stream >> output;
+        stringstream int_stream(input);
+        int_stream >> output;
         return output;
     }
 };

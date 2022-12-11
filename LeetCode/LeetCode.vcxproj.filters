@@ -294,6 +294,9 @@
     <ClCompile Include="1313. Decompress Run-Length Encoded List.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="5. Longest Palindromic Substring.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="443. String Compression.cpp">
