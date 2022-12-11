@@ -32,6 +32,7 @@
     <ClCompile Include="1290. Convert Binary Number in a Linked List to Integer.cpp" />
     <ClCompile Include="13. Roman to Integer.cpp" />
     <ClCompile Include="1302. Deepest Leaves Sum.cpp" />
+    <ClCompile Include="1313. Decompress Run-Length Encoded List.cpp" />
     <ClCompile Include="1342. Number of Steps to Reduce a Number to Zero.cpp" />
     <ClCompile Include="136. Single Number.cpp" />
     <ClCompile Include="1394. Find Lucky Integer in an Array.cpp" />
