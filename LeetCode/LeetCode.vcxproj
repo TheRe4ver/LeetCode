@@ -96,6 +96,7 @@
     <ClCompile Include="48. Rotate Image.cpp" />
     <ClCompile Include="49. Group Anagrams.cpp" />
     <ClCompile Include="5. Longest Palindromic Substring.cpp" />
+    <ClCompile Include="509. Fibonacci Number.cpp" />
     <ClCompile Include="535. Encode and Decode TinyURL.cpp" />
     <ClCompile Include="55. Jump Game.cpp" />
     <ClCompile Include="559. Maximum Depth of N-ary Tree.cpp" />
