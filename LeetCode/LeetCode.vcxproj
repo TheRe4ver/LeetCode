@@ -83,6 +83,7 @@
     <ClCompile Include="326. Power of Three.cpp" />
     <ClCompile Include="342. Power of Four.cpp" />
     <ClCompile Include="344. Reverse String.cpp" />
+    <ClCompile Include="35. Search Insert Position.cpp" />
     <ClCompile Include="350. Intersection of Two Arrays II.cpp" />
     <ClCompile Include="367. Valid Perfect Square.cpp" />
     <ClCompile Include="38. Count and Say.cpp" />

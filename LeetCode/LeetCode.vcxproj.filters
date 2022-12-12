@@ -309,6 +309,9 @@
     <ClCompile Include="495. Teemo Attacking.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="35. Search Insert Position.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="443. String Compression.cpp">
