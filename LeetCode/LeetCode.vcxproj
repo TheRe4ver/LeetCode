@@ -95,6 +95,7 @@
     <ClCompile Include="451. Sort Characters By Frequency.cpp" />
     <ClCompile Include="48. Rotate Image.cpp" />
     <ClCompile Include="49. Group Anagrams.cpp" />
+    <ClCompile Include="495. Teemo Attacking.cpp" />
     <ClCompile Include="5. Longest Palindromic Substring.cpp" />
     <ClCompile Include="509. Fibonacci Number.cpp" />
     <ClCompile Include="535. Encode and Decode TinyURL.cpp" />
