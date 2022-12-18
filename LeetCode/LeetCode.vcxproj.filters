@@ -315,6 +315,9 @@
     <ClCompile Include="931. Minimum Falling Path Sum.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="739. Daily Temperatures.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="443. String Compression.cpp">
